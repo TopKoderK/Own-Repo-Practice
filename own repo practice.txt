@@ -1,0 +1,12 @@
+Own Repo.txt
+
+1. git init
+2. git remote add origin https://github.com/TopKoderK/git-practice.git
+3. git add . 
+4. git commit -m "any message"
+5. git push -u origin main
+
+Updating Own Repo commands:
+1. git add .
+2. git commit -m "any message"
+3. git push
